@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #230d05;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(7, 8, 8, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #550808;
+}
+
+h2 {
+    color: #184d8d;
+    padding-bottom: 5px;
+}
+
+.city-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.city-list li {
+    background-color: #fef4ef;
+    border: 1px solid #f05800;
+    color: #fd5d00;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
